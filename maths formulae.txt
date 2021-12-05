@@ -1,0 +1,14 @@
+#maths formulae
+>>> a=int(input("Enter your first number =")
+... )
+
+>>> b=int(input("Enter your second number ="))
+
+>>> R=float(a%b)
+>>> print("The Reminder of two number is =",R)
+
+>>> print("The value of (a+b)sq =",a*a+b*b+2*a*b)
+
+>>> print("The value of (a-b)sq =",a*a+b*b-2*a*b)
+
+>>>  
